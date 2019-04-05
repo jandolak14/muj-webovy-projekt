@@ -1,3 +1,11 @@
+---
+title:  "After Paris, Brno has the second-largest ossuary in Europe"
+date:   2018-03-13
+tags: 
+    - hello world
+    - start
+    - hugo
+---
 After Paris, Brno has the second-largest ossuary in Europe
 
 The number of people buried here is estimated to exceed 50,000. There was a churchyard at the Church of St James (the site is now Jakubské náměstí, or St James Square) as early as the beginning of the 13th century. Like many other churchyards, its establishment within the city walls later prevented its extension. The churchyard capacity quickly became insufficient for the needs of the growing city, and a special system of burial had to be adopted in which graves were opened 10 to 12 years after burial and the remnants were removed to make room for another body in the grave. The remnants from the original graves were moved to special underground areas, called ossuaries. These also quickly filled up due to frequent plague and cholera epidemics. The reforms introduced by Joseph II in 1784 resulted in churchyards being closed down for hygienic reasons. The remnants from the graves were moved into a crypt, the churchyard wall was torn down, the area around the church was paved with the former headstones, and the ossuary was gradually forgotten.
