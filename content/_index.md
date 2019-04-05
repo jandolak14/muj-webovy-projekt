@@ -10,8 +10,6 @@ Nejprve bych začal geografickými údaji o Albánii jako takové, poté napsal 
 
 Součástí projektu by byla i pojednání o Albánských zvycích, tradicích a také doporučení, jaké pamětihodnosti by čtenář měl v Albánii navštívit.
 
-1. The Muslim Bonaparte : diplomacy and orientalism in Ali Pasha’s Greece / K.E. Fleming -https://aleph.muni.cz/F/JE8UFVQ126FV56DPVX2LIFMTLXT8KLBILTFTKV95I84R6XTXP8-71179?func=full-set-set&set_number=014136&set_entry=000007&format=999
-2.Dějiny Albánie / Pavel Hradečný, Ladislav Hladký ; autorsky se podíleli Virgjil Monari, František Šístek, Pavla Burdová Hradečná. -https://aleph.muni.cz/F/JE8UFVQ126FV56DPVX2LIFMTLXT8KLBILTFTKV95I84R6XTXP8-72720?func=item-global&doc_library=MUB01&doc_number=000544797&year=&volume=&sub_library=FF
-3.Albánie : kráska se špatnou pověstí / Miroslav Náplava, Petr Horký -https://aleph.muni.cz/F/JE8UFVQ126FV56DPVX2LIFMTLXT8KLBILTFTKV95I84R6XTXP8-75995?func=full-set-set&set_number=014147&set_entry=000004&format=999
+
 
 
