@@ -64,7 +64,7 @@ j.Přehled cestovních kanceláří nabízejících cesty do Albánie.
 
 
 
-8. Plán zveřejnování informací :
+8. Plán zveřejnování informací:
 
      1. týden- ZáklaDNÍ ZEMĚPISNÉ údaje o Albánii
      2.týden-Historie Albánie a Albánců do r. 1450
