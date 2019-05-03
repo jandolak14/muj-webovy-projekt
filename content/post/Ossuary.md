@@ -12,7 +12,7 @@ From the most famous nun of all time to well-known actors, the world knows plent
 Mother Teresa
 
 ---
-The most famous Albanian in the world is Mother Teresa. Anjezë Gonxhe Bojaxhiu (Mother Teresa’s real name) was born in Skopje, the capital city of Macedonia, to an Albanian family from Kosovo. She founded the Missionaries of Charity, a Roman Catholic religious congregation, and spent most of her life in the Indian town of Calcutta, where she helped people with aids, as well as children. In 2016 in Saint Peter’s Square, Vatican City, Pope Francis canonized Mother Teresa on September 4.
+The most famous Albanian in the world is Mother Teresa. Anjezë Gonxhe Bojaxhiu (Mother Teresa’s real name) was born in Skopje, the capital city of Macedonia, to an Albanian family from Kosovo. She founded the Missionaries of Charity, a Roman Catholic religious congregation, and spent most of her life in the Indian town of Calcutta, where she helped people with aids, as well as children. In 2016 in Saint Peter’s Square, Vatican City, Pope Francis canonized Mother Teresa on September 4.jn
 
 ---
 Ismail Kadare
