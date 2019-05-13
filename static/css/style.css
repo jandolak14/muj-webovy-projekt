@@ -16,14 +16,14 @@ footer {
 }
 
 .page {
-  float: right;
-  width: 70%;
+  float: left;
+  width: 90%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
   color: currentColor;
-  margin: right;
+  margin: left;
   padding: 23px;
    background: url("https://www.solidbackgrounds.com/images/2560x1440/2560x1440-light-red-ochre-solid-color-background.jpg " );
 }
