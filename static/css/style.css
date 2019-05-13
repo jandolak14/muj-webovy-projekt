@@ -1,12 +1,12 @@
 .wrapper {
-  margin: 10px auto;
-  max-width: 900px;
-  padding: 100px;
+  margin: 30px auto;
+  max-width: 800px;
+  padding: 20px;
   
 }
 
 header {
-  padding: 6px 0 0;
+  padding: 20px 0 0;
   border-bottom: solid;
   color: red;
    background: url("https://www.solidbackgrounds.com/images/2560x1440/2560x1440-light-blue-solid-color-background.jpg" );
@@ -15,7 +15,6 @@ header {
 footer {
   border-top: solid;
   clear: both;
-  padding: 20px 0 0;
    color: red;
    background: url("https://www.hudsonprocurementgroup.co.uk/wp-content/uploads/2014/04/sample_1920_light_red.png" );
 }
@@ -23,7 +22,7 @@ footer {
 
 .page {
   float: left;
-  width: 100%;
+  width: 70%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
@@ -36,12 +35,12 @@ footer {
 
 aside {
   float: left;
-  width: 25%;
+  width: 30%;
   margin-top: 1em;
 }
 
 nav ul {
-  list-style-type: none;
+  list-style-type: lower-roman;
   padding: 0;
 }
 
