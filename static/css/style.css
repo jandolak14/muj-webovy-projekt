@@ -1,8 +1,8 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
-  g
+  margin: 10px auto;
+  max-width: 900px;
+  padding: 100px;
+  
 }
 
 header {
@@ -15,11 +15,15 @@ header {
 footer {
   border-top: solid;
   clear: both;
+  padding: 20px 0 0;
+   color: red;
+   background: url("https://www.babybedding.com/solid-bubblegum-pink-cradle-sheet" );
+}
 }
 
 .page {
   float: left;
-  width: 90%;
+  width: 100%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
