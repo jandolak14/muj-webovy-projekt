@@ -10,4 +10,11 @@ O další úroven níže se nachází logo blogu - Albánská Orlice a poté hla
 
 V nejdolnější části se nacházejí znovu odkazy na stránky s hlavním obsahem, následně sdělení, co bychom rádi tímto blogem dosáhli, poté základní informace o Albánii a její historii.
 
-to tozo
+
+ Odkaz na moodboard - POZOR: JE NUTNÉ PŘIHLÁSIT SE POMOCÍ ÚČTU GOOGLE: https://app.milanote.com/1HeDg61GxDDvbp/vodn-strnka
+
+
+
+
+
+
