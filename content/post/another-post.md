@@ -83,7 +83,7 @@ The Shishtavec village is one of the best known in Albania for skiing. The beaut
 
 Shishtavec is surrounded by highlands and mountain ranges which, during the spring, are covered by a vast variety of plants and blooming flowers. The area is well-known for its potato and rye production but, surprisingly, there is also no lack of fruit growing in these heights which are characterized by harsh winter temperatures. The area’s residents are renowned for their skill in conserving dairy products, a necessity during the harshest winter months. However, for the majority of the year, Shishtavec remains a truly magnificent and unique destination for all its lucky visitors. 
 
-For tours: There are several agencies offering tours in Shishtavec. Click discoveralbania.al or kalemitravel.com for more.</p></h4>
+For tours:     There are several agencies offering tours in Shishtavec. Click discoveralbania.al or kalemitravel.com for more.</p></h4>
           
            <img src="https://www.intoalbania.com/city/kukes/#pid=1">
            
